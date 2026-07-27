@@ -4,7 +4,7 @@ JobLens decodes a job posting against your own background and gives you a tailor
 
 ## Live app
 
-🔗 **[ADD YOUR DEPLOYED VERCEL URL HERE]**
+🔗 **https://joblens-navy.vercel.app/**
 
 ## The problem
 
